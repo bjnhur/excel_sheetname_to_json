@@ -1,0 +1,17 @@
+{
+    "filename": "Sample_Excel.xlsx",
+    "sheetNames": [
+        "Sheet1",
+        "Sheet2"
+    ],
+    "base_row_pos": 5,
+    "base_col_pos": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ]
+}
