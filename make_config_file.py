@@ -9,8 +9,8 @@ def save_sheet_names_to_json(filename):
     
     # 결과를 JSON 형식으로 변환
     config_data = {
-        "filename": filename,
-        "sheetNames": sheet_names,
+        "workbookName": filename,
+        "sheetName_List": sheet_names,
         "base_row_pos" : 5,
         "base_col_pos" : [2,3,4,5,6,7,8]
     }
